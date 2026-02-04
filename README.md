@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 I'm @harustotle
+Financial Data Analyst | Excel Specialist | Business Logic Designer
+I specialize in transforming complex, "messy" datasets into clear financial stories and automated business systems. My work focuses on building scalable logic for startups and auditing multi-channel financial performance.
 
-<!--
-**harustotle/harustotle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technical Toolkit
+Data Manipulation: MS Excel (Advanced), Power Query, INDEX/MATCH, XLOOKUP
 
-Here are some ideas to get you started:
+Database Engineering: MySQL (Designing schemas for scalability)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analysis: Financial Auditing, BNPL Risk Scoring, Inventory Management
+
+🚀 Featured Projects
+TradeSpur System: An automated inventory & credit risk tracker built to handle Buy-Now-Pay-Later (BNPL) logic.
+
+2025 Financial Audit: A comprehensive end-to-end analysis of annual transaction data to optimize 2026 savings.
+
+📫 Let's connect! I'm currently expanding my portfolio into MySQL and advanced financial modeling.
